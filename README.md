@@ -1,21 +1,24 @@
 # SC_OrbitalDampeningData
 The Speed one needs to archive in order to stay at the dropout point for any given planet or moon in Star Citizen
 
-# Tutorial
+# **Tutorial**
 
-# Orbital Dampening - an advanced snaring technique
+Video: https://youtu.be/iLVnu_PTtgY
+
+## Orbital Dampening - an advanced snaring technique
 -# found tested by BarecGesh and optimized by NoNaNelson
+
 Orbital Dampening is a form of effectively snaring ships within the gravity field of stellar objects
 ![Image 1](https://cdn.discordapp.com/attachments/1040353083282182144/1367277971727057089/gdinvzJ.png?ex=6814a917&is=68135797&hm=9b621aadf2a210872bbddb03a47fb50bc065a8f1e54fdd819dbef42d21f09a87&)
 
-# THE THEORY BEHIND IT
+## THE THEORY BEHIND IT
 for any given route, the smallest, the travel corridor of a route will ever be is at the droupout point, when they exit quantum travel.
 If you could wait at that point, you would not need to care about server boundaries. Another point is, that after Quantum travel, especially longer ones liek Hurston > Arccorp, the average QT cooldown time is around 15 seconds, giving you enough time to close the distance and dampen them and because they wont expect it, they will not realize whats happening until its too late
 sadly this can still be circumvented by doglegs but your chance is higher catching one since you will be way closer and you might be able to spot someone at larger distances
 
 so if you now want to archive a orbital dampen from Hurston to ArcCorp, you need to stay at/near the dropout point, 880km away moving 494m/s against the rotation of the planet
 
-# The Game
+## The Game
 in star citizen, planets rotate, always counter clockwise when looking from OM1 - this will be our "up" from now on
 ![Image 2](https://cdn.discordapp.com/attachments/1040353083282182144/1367293499984056330/mTHin4Y.png?ex=6814b78d&is=6813660d&hm=99681b750c4f6dc5c61bfa128d45ba86f4e00f553b15fb77f2f444a6ceb1c448&)
 
