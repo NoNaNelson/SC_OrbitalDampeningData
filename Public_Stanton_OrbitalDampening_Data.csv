@@ -1,0 +1,17 @@
+name     , Designation, dropout_distance, target_vel
+Hurston  , Stanton1   ,          1050000,      738.9
+Arial    , Stanton_1a ,           511725,      162.1
+Aberdeen , Stanton_1b ,           437700,      293.9
+Magda    , Stanton_1c ,           507874,      456.9
+Ita      , Stanton_1d ,           491250,      176.8
+Crusader , Stanton2   ,          7972500,     2728.5
+Cellin   , Stanton_2a ,           423349,      166.1
+Daymar   , Stanton_2b ,           459750,      323.6
+Yela     , Stanton_2c ,           478650,      459.0
+ArcCorp  , Stanton3   ,           880000,      493.9
+Lyria    , Stanton_3a ,           384150,      104.3
+Wala     , Stanton_3b ,           447307,      123.5
+Microtech, Stanton4   ,          1050000,      444.8
+Calliope , Stanton_4a ,           402350,      153.0
+Clio     , Stanton_4b ,           504025,      270.7
+Euterpe  , Stanton_4c ,           373475,      152.3

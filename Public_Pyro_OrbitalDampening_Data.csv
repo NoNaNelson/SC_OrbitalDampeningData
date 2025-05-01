@@ -1,0 +1,13 @@
+name    , Designation, dropout_distance, target_vel
+Pyro I  , Pyro1      ,           582285, 420.0
+Monox   , Pyro2      ,           705975, 396.2
+Bloom   , Pyro3      ,           584595, 202.8
+Pyro V  , Pyro5      ,          8352915, 2858.7
+Ignis   , Pyro5a     ,           562825, 285.6
+Vatra   , Pyro5b     ,           534095, 272.6
+Adir    , Pyro5c     ,           602550, 443.8
+Fairo   , Pyro5d     ,           561852, 193.0
+Fuego   , Pyro5e     ,           638950, inf
+Vuur    , Pyro5f     ,           625474, 211.6
+Pyro IV , Pyro4      ,           487470, 208.0
+Terminus, Pyro6      ,           449250, 273.2
