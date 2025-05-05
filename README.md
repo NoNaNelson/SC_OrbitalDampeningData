@@ -53,3 +53,5 @@ i have precalculated these speeds and attached below - might need adjustment in 
 * as of 4.0 and server meshing, snareing is bugged, because of server boundaries - this type of interdiction is not affected by this
 
 
+
+for any questions DM me on discord: nonanelson
