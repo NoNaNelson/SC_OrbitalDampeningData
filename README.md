@@ -55,4 +55,5 @@ i have precalculated these speeds and attached below - might need adjustment in 
 
 
 for any questions DM me on discord: nonanelson
--# incase my DMs are disabled, join the TeamDolus discord server and ask in the qi-discussion or snareplan-help channels - ![link](https://discord.gg/zmQdPwSbdA)
+
+incase my DMs are disabled, join the TeamDolus discord server and ask in the qi-discussion or snareplan-help channels - ![link](https://discord.gg/zmQdPwSbdA)
